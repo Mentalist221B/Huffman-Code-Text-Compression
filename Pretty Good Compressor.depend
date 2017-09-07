@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1497000194 source:c:\users\rdbas\onedrive\documents\c++ codes\gp\pretty good compressor\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<algorithm>
+	<cmath>
+	<cstdio>
+	<cstring>
+	<sstream>
+	"Node.h"
+	"Compare.h"
+	"Minheap.h"
+	"Hufftree.h"
+
+1496682741 c:\users\rdbas\onedrive\documents\c++ codes\gp\pretty good compressor\node.h
+	<string>
+
+1496685775 c:\users\rdbas\onedrive\documents\c++ codes\gp\pretty good compressor\compare.h
+	"Node.h"
+
+1496685916 c:\users\rdbas\onedrive\documents\c++ codes\gp\pretty good compressor\minheap.h
+	"Node.h"
+
+1496695473 source:c:\users\rdbas\onedrive\documents\c++ codes\gp\pretty good compressor\huffman_uncompress.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<algorithm>
+	<cmath>
+
+1496835294 c:\users\rdbas\onedrive\documents\c++ codes\gp\pretty good compressor\hufftree.h
+	"Node.h"
+	"Minheap.h"
+
